@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather, Inc.</string>
+    <string name="open_weather_api">103f9da2b9d966db478468b6eb444800</string>
+
+</resources>
